@@ -8,9 +8,9 @@
         <class>com.example.empData</class>
         <properties>
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
-            <property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/dbVendas"/>
-            <property name="hibernate.connection.username" value="postgres"/>
-            <property name="hibernate.connection.password" value="1234"/>
+            <property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/****"/>
+            <property name="hibernate.connection.username" value="****"/>
+            <property name="hibernate.connection.password" value="****"/>
         </properties>
     </persistence-unit>
 </persistence>
